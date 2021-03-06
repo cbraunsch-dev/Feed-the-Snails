@@ -9,9 +9,8 @@ This is a simple puzzle game where you try to get your snails to eat their salad
 ![img4](https://user-images.githubusercontent.com/41971262/110208120-95922600-7e87-11eb-83f7-1fb29ef3ff41.png)
 ![img5](https://user-images.githubusercontent.com/41971262/110208121-96c35300-7e87-11eb-8d3d-17a41bff91e6.png)
 ![img6](https://user-images.githubusercontent.com/41971262/110208123-97f48000-7e87-11eb-9894-16a04f8187e2.png)
+![GithubCliip1](https://user-images.githubusercontent.com/41971262/110208681-ea826c00-7e88-11eb-9545-771916b82d18.gif)
+![GithubClip2](https://user-images.githubusercontent.com/41971262/110208687-f1a97a00-7e88-11eb-8f64-8f762259fa6f.gif)
 
-https://user-images.githubusercontent.com/41971262/110208101-7c897500-7e87-11eb-8259-8bb683abf414.mp4
-
-https://user-images.githubusercontent.com/41971262/110208112-8a3efa80-7e87-11eb-888b-b57a986c8b65.mp4
 
 The game was devleoped with Unity and has last been updated to be compatible with Unity version 2019.4.21f1.
