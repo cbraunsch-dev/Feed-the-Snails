@@ -1,5 +1,6 @@
 # Feed-the-Snails
 Developed in 2020/2021
+
 Snail-paced, frantic action puzzler. Play it [here](https://cbraunsch-dev.itch.io/feed-the-snails)
 
 This is a simple puzzle game where you try to get your snails to eat their salad. Each snail has a color (either yellow, blue, red or green) and it can only eat salad of the same color. You can only control one snail at a time. As soon as you select a snail, the other snails will start to move in whatever direction they are currently facing. When a snail moves it leaves behind a temporary path of slime in the color of the snail. If a snail crosses the slime path of a different color, it will die.
